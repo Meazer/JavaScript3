@@ -1,4 +1,4 @@
-#Simple steps to get information form url and show it in HTML page
+# Simple steps to get information form url and show it in HTML page
 
 1. Create XHR object.
 2. Call XHR.open() method to GET the URL.
